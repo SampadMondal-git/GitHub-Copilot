@@ -20,7 +20,7 @@ cd GitHub-Copilot
 
 For more details on how GitHub Copilot works, visit the official documentation:
 
-- **GitHub Copilot Docs** [GitHub Copilot Docs](https://github.com/features/copilot)
+- **GitHub Copilot Docs**: [GitHub Copilot Docs](https://github.com/features/copilot)
 
 ## Connect with Me
 
